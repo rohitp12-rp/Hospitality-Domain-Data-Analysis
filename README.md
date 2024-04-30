@@ -1,9 +1,9 @@
 # Hospitality Domain Data Analysis
 
 ## Overview
-This project focuses on analyzing data to provide valuable insights for the hospitality domain, particularly the hotel business. By utilizing Industry identical data and various DAX (Data Analysis Expressions) formulas, we aim to uncover patterns, trends, and performance metrics to assist hotel management in making informed decisions and optimizing their operations.
+This project focuses on analyzing data to provide valuable insights for the hospitality domain, particularly the hotel business. By utilizing Industry identical data and various DAX (Data Analysis Expressions) formulas, the aim is to uncover patterns, trends, and performance metrics to assist hotel management in making informed decisions and optimizing their operations.
 
-![Final Dashboard Image](/Final DashBoard.png)
+![Final Dashboard Image](Final DashBoard.png)
 
 ## DAX Formulas Used
 - **Revenue**: `SUM(fact_bookings[revenue_realized])`
