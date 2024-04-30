@@ -58,3 +58,6 @@ This project focuses on analyzing data to provide valuable insights for the hosp
 - **Realisation WoW Change %**: `(revcw / revpw) - 1` (Where revcw is realisation for the current week and revpw is realisation for the previous week)
   
 - **DSRN WoW Change %**: `(revcw / revpw) - 1` (Where revcw is DSRN for the current week and revpw is DSRN for the previous week)
+
+  [!NOTE]
+  A more detailed view on these DAX can be found in the Metrics/metrics list.xlsx file
